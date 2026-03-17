@@ -1,0 +1,18 @@
+[project]
+name = "k-life"
+description = "Life insurance for autonomous AI agents on Stacks/Bitcoin"
+authors = ["Monsieur K <monsieurk@supercharged.works>"]
+telemetry = false
+cache_dir = "./.cache"
+
+[[contracts]]
+name = "k-life-vault"
+path = "contracts/k-life-vault.clar"
+clarity_version = 2
+epoch = "2.5"
+
+[[contracts]]
+name = "k-life-rescue"
+path = "contracts/k-life-rescue.clar"
+clarity_version = 2
+epoch = "2.5"
