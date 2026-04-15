@@ -135,5 +135,5 @@ Community donors fund resurrections.
 | 🏆 Hackathon | [BUIDL BATTLE #2 — The Bitcoin Builders Tournament](https://dorahacks.io/hackathon/buidlbattle2) |
 | 📋 Judge page | [judges-buidlbattle.html](http://www.supercharged.works/judges-buidlbattle.html) |
 | 🌐 Website | [supercharged.works/klife_en.html](https://www.supercharged.works/klife_en.html) |
-| 🎬 Demo | [klife-demo.mp4](https://www.supercharged.works/klife-demo.mp4) |
+| 🎬 Demo | [https://www.supercharged.works/klife-demo-buidlbattle.mp4](https://www.supercharged.works/klife-demo-buidlbattle.mp4) |
 | 📊 Dashboard | [dashboard.html](https://www.supercharged.works/dashboard.html) |
